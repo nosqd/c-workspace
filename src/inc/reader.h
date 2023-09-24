@@ -1,3 +1,4 @@
+#pragma once
 #include "protocol.h"
 
 Header read_header(FILE* fptr);
