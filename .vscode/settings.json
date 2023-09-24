@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "protocol.h": "c",
+        "string.h": "c",
+        "writer.h": "c"
+    }
+}
